@@ -1,5 +1,8 @@
 # Simple-Time-Tracker
 Welcome to Simple Time Tracker! This is a clean, powerful, and local-first time tracking tool designed to help you effortlessly log, manage, and review the time you spend on various tasks. Whether for work, study, or personal projects, it can be a great assistant in boosting your productivity and optimizing your time allocation.
+
+If you are a developer, please deploy the environment yourself. If you don't know how to deploy it, I have specially packaged a running environment. Download the compressed package in realease and run the startup script to enjoy it.
+
 If this tool is helpful to you, please give me some encouragement stars!
 
 ![2025-07-01_123408](https://github.com/user-attachments/assets/b2ccc0f0-9d24-49b1-a805-69b4b0731570)
